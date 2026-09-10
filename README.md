@@ -237,3 +237,6 @@ This repository serves as the official landing page for **Minishoot' Adventures*
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Minishoot' Adventures today!**
+
+---
+**Last updated:** 2026-09-10 20:24:16 UTC
